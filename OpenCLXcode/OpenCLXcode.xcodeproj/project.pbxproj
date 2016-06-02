@@ -40,12 +40,14 @@
 		B3DC4A4D1CB885E700ABAF34 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				New_Setting = "";
 			};
 			name = Debug;
 		};
 		B3DC4A4E1CB885E700ABAF34 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				New_Setting = "";
 			};
 			name = Release;
 		};
